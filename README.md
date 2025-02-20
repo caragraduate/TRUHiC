@@ -40,8 +40,8 @@ jupyter-lab
 
 #### The notebook scripts below are ordered based on the presented results in our main paper. 
 
-  :ballot_box_with_check: <code>*XXX.ipynb*</code>: The codes for generating the XXXX.  
-  :ballot_box_with_check: <code>*XXX.ipynb*</code>: The codes for generating the XXXX.  
+  :ballot_box_with_check: <code>*XXX.py*</code>: The codes for generating the XXXX.  
+  :ballot_box_with_check: <code>*XXX.py*</code>: The codes for generating the XXXX.  
 
 
 The <code><b>data</code></b> folder contains the necessary datasets that are needed for running the main analyses included in our study (.ipynb notebook code under the code folder). A *README* file for the detailed description of each file can be found under the data folder.
@@ -51,7 +51,6 @@ Please note that the scripts are specifically designed and organized for this st
 ## Contact
 We welcome your questions, suggestions, requests for additional information, or collaboration interests. Please feel free to reach out to us via the following email addresses and we will respond as soon as possible:  
 :email: Chong Li:   tun53987@temple.edu or lichong0710@gmail.edu (personal email)  
-:email: Mohammad Erfan Mowlaei:   mohammad.erfan.mowlaei@temple.edu  
 :email: Dr. Mindy Shi:   mindyshi@temple.edu
 
 ## References
