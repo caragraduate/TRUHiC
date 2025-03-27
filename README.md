@@ -6,11 +6,9 @@ This repository contains codes and processed files for the manuscript entitled *
 
 
 ## Getting started
-Codes for the main analysis and visualization are provided under the <code><b>code</b></code> folder in IPython notebook files with instructions included in the markdown and heading text. All required input files can be found in the <code><b>data</b></code> folder. The <code><b>preprocess_data</b></code> folder contains the intermediate generated data during analyses.   
+Codes for the main experimental analysis are provided under the <code><b>XXX</b></code> folder with instructions included in the markdown and heading text. All required input files can be found in the <code><b>XXX</b></code> folder.   
 
-XXX
-To get started, XXXX users can download the notebook scripts and run them on their local machines or Google Colab. To run this on the HPC, after connecting to the user's HPC account, open the Jupyter Notebook in the browser to upload the IPython notebook (.ipynb) file and install the libraries as suggested in the Getting Started section. The user can run the same code on their HPC server. Remember to download the <code>data</code> folder as well and put the <code>code</code> and <code>data</code> folders in the same directory.  XXXX
-XXX
+To get started, XXXX users can download the scripts and run them on their local machines. To run this on the HPC, after connecting to the user's HPC account, install the libraries as suggested in the Getting Started section. The user can run the same code on their HPC server. XXX
 
 ### Installation
 TRUHiC can be downloaded by
@@ -33,20 +31,13 @@ Pandas 1.2.x, Numpy 1.20.x, SciPy 1.7.x, Matplotlib 3.5.x, statsmodels 0.13.x, s
 Users can download the project repository and start the jupyter lab to experiment with the analysis
 ```
 git clone https://github.com/shilab/TRUHiC.git
-cd Hi-C-inteXXX
-cd code
-jupyter-lab
+cd XXX
+cd XXX
 ```
 
-#### The scripts below are ordered based on the presented results in our main paper. 
+The <code><b>Data</code></b> folder contains the necessary datasets that are needed for running the main analyses included in our study. A *README* file for the detailed description of each file can be found under the data folder.
 
-  :ballot_box_with_check: <code>*XXX.py*</code>: The codes for generating the XXXX.  
-  :ballot_box_with_check: <code>*XXX.py*</code>: The codes for generating the XXXX.  
-
-
-The <code><b>data</code></b> folder contains the necessary datasets that are needed for running the main analyses included in our study (.ipynb notebook code under the code folder). A *README* file for the detailed description of each file can be found under the data folder.
-
-Please note that the scripts are specifically designed and organized for this study publication. All the input files and formats are specified in the scripts. Users are welcome to download and run the provided notebook scripts on their own machines to replicate our results. It is possible that the programs may not run on the user's device due to environmental differences or bugs. Therefore, to use the scripts with the user's own data, please consider this repository as an experimental notebook and update the respective directory paths and input files accordingly. 
+Please note that the scripts are specifically designed and organized for this study publication. All the input files and formats are specified in the scripts. Users are welcome to download and run the provided scripts on their own machines to replicate our results. It is possible that the programs may not run on the user's device due to environmental differences or bugs. Therefore, to use the scripts with the user's own data, please consider this repository as an experimental notebook and update the respective directory paths and input files accordingly. 
 
 ## Contact
 We welcome your questions, suggestions, requests for additional information, or collaboration interests. Please feel free to reach out to us via the following email addresses and we will respond as soon as possible:  
@@ -56,4 +47,5 @@ We welcome your questions, suggestions, requests for additional information, or 
 
 ## References
 #### If you find our results useful in your research, please cite our work as:
-Li, C.,XXXX
+Chong Li, Mohammad Erfan Mowlaei, Human Genome Structural Variation Consortium (HGSVC), HGSVC Functional Analysis Working Group, Vincenzo Carnevale, Sudhir Kumar, Xinghua Shi. “TRUHiC: A Transformer-embedded U-2 Net to enhance Hi-C data for chromatin structure characterization.”
+
