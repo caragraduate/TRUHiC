@@ -51,6 +51,7 @@ Please note that the scripts are specifically designed and organized for this st
 ## Contact
 We welcome your questions, suggestions, requests for additional information, or collaboration interests. Please feel free to reach out to us via the following email addresses and we will respond as soon as possible:  
 :email: Chong Li:   tun53987@temple.edu or lichong0710@gmail.edu (personal email)  
+:email: Mohammad Erfan Mowlaei:   mohammad.erfan.mowlaei@temple.edu  
 :email: Dr. Mindy Shi:   mindyshi@temple.edu
 
 ## References
