@@ -1,8 +1,8 @@
 # TRUHiC
 ## Introduction
-TRUHiC is a Hi-C data resolution enhancement method that integrates a customized and lightweight transformer architecture embedded into a U-2 Net architecture to capture global chromatin interaction patterns in low-resolution Hi-C matrices. 
+TRUHiC is a Hi-C data resolution enhancement method that integrates a customized and lightweight transformer architecture embedded into a U-2 Net architecture to augment low-resolution Hi-C data for the characterization of 3D chromatin structure. 
 
-This repository contains codes and processed files for the manuscript entitled *"TRUHiC: A TRansformer-embedded U-2 Net to enhance Hi-C data for 3D chromatin structure characterization."*. (https://XXXXX)
+This repository contains codes and processed files for the manuscript entitled *"TRUHiC: A TRansformer-embedded U-2 Net to enhance Hi-C data for 3D chromatin structure characterization."*. (link to be added)
 
 
 ## Getting started
@@ -32,13 +32,13 @@ Pandas 1.2.x, Numpy 1.20.x, SciPy 1.7.x, Matplotlib 3.5.x, statsmodels 0.13.x, s
 
 Users can download the project repository and start the jupyter lab to experiment with the analysis
 ```
-git clone https://github.com/shilab/Hi-CXXX.git
+git clone https://github.com/shilab/TRUHiC.git
 cd Hi-C-inteXXX
 cd code
 jupyter-lab
 ```
 
-#### The notebook scripts below are ordered based on the presented results in our main paper. 
+#### The scripts below are ordered based on the presented results in our main paper. 
 
   :ballot_box_with_check: <code>*XXX.py*</code>: The codes for generating the XXXX.  
   :ballot_box_with_check: <code>*XXX.py*</code>: The codes for generating the XXXX.  
