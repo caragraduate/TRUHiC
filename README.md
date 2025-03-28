@@ -6,9 +6,11 @@ This repository contains codes and processed files for the manuscript entitled *
 
 
 ## Getting started
-Codes for the main experimental analysis are provided under the <code><b>XXX</b></code> folder with instructions included in the markdown and heading text. All required input files can be found in the <code><b>XXX</b></code> folder.   
+Codes for the main experimental analysis are provided in the <code>Models.zip</code> file with instructions included in a readme file inside. All required input files for a demo can be found in the <code><b>Data</b></code> folder zipped and can be extracted using the 7zip tool.   
 
-To get started, XXXX users can download the scripts and run them on their local machines. To run this on the HPC, after connecting to the user's HPC account, install the libraries as suggested in the Getting Started section. The user can run the same code on their HPC server. XXX
+**Please ignore the following instructions for running the experiments at this point**
+
+To get started, users can download the scripts and run them on their local machines. To run this on the HPC, after connecting to the user's HPC account, install the libraries as suggested in the Getting Started section. The user can run the same code on their HPC server. XXX
 
 ### Installation
 TRUHiC can be downloaded by
