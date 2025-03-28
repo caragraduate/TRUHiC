@@ -6,7 +6,7 @@ This repository contains codes and processed files for the manuscript entitled *
 
 
 ## Getting started
-Codes for the main experimental analysis are provided in the <code>Models.zip</code> file with instructions included in a readme file inside. All required input files for a demo can be found in the <code><b>Data</b></code> folder zipped and can be extracted using the 7zip tool.   
+Codes for the main experimental analysis are provided in the <code>Models.zip</code> and <code>Experiments</code>folder with instructions included in a readme file inside. All required input files for a demo can be found in the <code><b>Data</b></code> folder zipped and can be extracted using the 7zip tool.   
 
 **Please ignore the following instructions for running the experiments at this point**
 
