@@ -2,15 +2,15 @@
 ## Introduction
 TRUHiC is a Hi-C data resolution enhancement method that integrates a customized and lightweight transformer architecture embedded into a U-2 Net architecture to augment low-resolution Hi-C data for the characterization of 3D chromatin structure. 
 
-This repository contains codes and processed files for the manuscript entitled *"TRUHiC: A TRansformer-embedded U-2 Net to enhance Hi-C data for 3D chromatin structure characterization."*. (link to be added)
+This repository contains codes and processed files for the manuscript entitled *"TRUHiC: A TRansformer-embedded U-2 Net to enhance Hi-C data for 3D chromatin structure characterization."*. (https://www.biorxiv.org/content/10.1101/2025.03.29.646133v1)
 
 
 ## Getting started
 Codes for the main experimental analysis are provided in the <code>Models.zip</code> and <code>Experiments</code>folder with instructions included in a readme file inside. All required input files for a demo can be found in the <code><b>Data</b></code> folder zipped and can be extracted using the 7zip tool.   
 
-**Please ignore the following instructions for running the experiments at this point**
+**Please kindly ignore the following instructions for running the experiments at this point**
 
-To get started, users can download the scripts and run them on their local machines. To run this on the HPC, after connecting to the user's HPC account, install the libraries as suggested in the Getting Started section. The user can run the same code on their HPC server. XXX
+To get started, users can download the scripts and run them on their local machines. To run this on the HPC, after connecting to the user's HPC account, install the libraries as suggested in the Getting Started section. The user can run the same code on their HPC server.
 
 ### Installation
 TRUHiC can be downloaded by
